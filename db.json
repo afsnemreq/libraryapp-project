@@ -1,28 +1,56 @@
 {
-    "books": [
-        {
-            "id": 1,
-            "name": "Yaban",
-            "author": "Yakup Kadri Karaosmanoğlu",
-            "isbn": "1111",
-            "categoryId": 1
-        },        
-        {
-            "id": 2,
-            "name": "Yeraltından Notlar",
-            "author": "Dostoyevski",
-            "isbn": "1112",
-            "categoryId": 2
-        }
-    ],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Roman"
-        },
-        {
-            "id": 2,
-            "name": "Hikaye"
-        }
-    ]
+  "books": [
+    {
+      "id": 1,
+      "name": "Yaban",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "isbn": "1111",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Yeraltından Notlar",
+      "author": "Dostoyevski",
+      "isbn": "1112",
+      "categoryId": "2"
+    },
+    {
+      "id": 1666293864186,
+      "name": "Satranç",
+      "author": "Stefan Zweig",
+      "isbn": "123456",
+      "categoryId": "2"
+    },
+    {
+      "id": 1666294127811,
+      "name": "Hayvan Çiftliği",
+      "author": "George Orwell",
+      "isbn": "572542",
+      "categoryId": "1"
+    },
+    {
+      "id": 1666294251378,
+      "name": "Hayvan Mezarlığı",
+      "author": "Stephen King",
+      "isbn": "447542",
+      "categoryId": "1"
+    },
+    {
+      "id": 1666294454513,
+      "name": "Kangal Karabas Türk Coban Köpegi",
+      "author": "Orhan Yılmaz",
+      "isbn": "5243543",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    }
+  ]
 }
